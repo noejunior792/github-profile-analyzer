@@ -27,7 +27,7 @@ Antes de começar, você precisa ter o [Node.js](https://nodejs.org/) instalado 
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seuusuario/github-profile-analyzer.git
+   git clone https://github.com/noejunior792/github-profile-analyzer.git
    cd github-profile-analyzer
    ```
 
